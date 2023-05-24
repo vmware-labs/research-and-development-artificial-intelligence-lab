@@ -1,22 +1,10 @@
-# R&D AI Lab (RAIL)
+# VMware's R&D AI Lab (RAIL)
 
 ## Overview
 
-## Try it out
+Welcome to the official GitHub home of RAIL, where we publish (hopefully) helpful tidbits to advance the open source NLP community!
 
-### Prerequisites
-
-* Prereq 1
-* Prereq 2
-* Prereq 3
-
-### Build & Run
-
-1. Step 1
-2. Step 2
-3. Step 3
-
-## Documentation
+**Note:** Each project is in its own subfolder with dedicated instructions for use.
 
 ## Contributing
 
