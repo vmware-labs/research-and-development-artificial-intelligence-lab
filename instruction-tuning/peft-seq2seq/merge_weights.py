@@ -1,4 +1,7 @@
+# Copyright 2023 VMware, Inc.
+# SPDX-License-Identifier: Apache-2.0
 # Modified from https://github.com/lvwerra/trl/blob/main/examples/sentiment/scripts/gpt-neox-20b_peft/merge_peft_adapter.py
+
 import argparse
 import os
 

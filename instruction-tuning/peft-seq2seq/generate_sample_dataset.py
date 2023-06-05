@@ -1,3 +1,6 @@
+# Copyright 2023 VMware, Inc.
+# SPDX-License-Identifier: Apache-2.0
+
 from datasets import load_dataset
 
 dataset = load_dataset(
