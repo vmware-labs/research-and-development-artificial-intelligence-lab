@@ -9,9 +9,9 @@ Welcome to the official GitHub home of RAIL, where we publish (hopefully) helpfu
 ## Contributing
 
 The R&D AI LAB welcomes contributions from the community. Before you start working with us, please
-read our [Developer Certificate of Origin](https://cla.vmware.com/dco). All contributions to this repository must be
-signed as described on that page. Your signature certifies that you wrote the patch or have the right to pass it on
-as an open-source patch. For more detailed information, refer to [CONTRIBUTING.md](CONTRIBUTING.md).
+read our and sign Contributor License Agreement (CLA). If you wish to contribute code and you have not signed our contributor license agreement (CLA), our bot will prompt you to do so when you open a Pull Request.
+
+For more detailed information, refer to [CONTRIBUTING_CLA.md](CONTRIBUTING_CLA.md).
 
 ## License
 
