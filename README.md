@@ -4,6 +4,8 @@
 
 Welcome to the official GitHub home of RAIL, where we publish (hopefully) helpful tidbits to advance the open source NLP community!
 
+You can find our published models on https://huggingface.co/VMware 
+
 **Note:** Each project is in its own subfolder with dedicated instructions for use.
 
 ## Contributing
