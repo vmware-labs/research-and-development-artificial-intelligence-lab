@@ -16,6 +16,6 @@ tqdm==4.65.0
 transformers==4.28.1
 triton==2.0.0
 urllib3==1.26.15
-protobuf==3.20.1
+protobuf==3.20.2
 sentencepiece==0.1.97
 tiktoken
