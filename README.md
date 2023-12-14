@@ -1,8 +1,8 @@
-# VMware's R&D AI Lab (RAIL)
+# VMware's AI Lab (VAIL)
 
 ## Overview
 
-Welcome to the official GitHub home of RAIL, where we publish (hopefully) helpful tidbits to advance the open source NLP community!
+Welcome to the official GitHub home of VAIL, where we publish (hopefully) helpful tidbits to advance the open-source NLP community!
 
 You can find our published models on https://huggingface.co/VMware 
 
